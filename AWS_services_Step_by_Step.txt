@@ -1,0 +1,12 @@
+https://medium.com/computethecloud
+
+# Windows Server
+# Ubuntu Server
+# Bitnami Wordpress
+# Dynamo DB
+# RDS
+# IAM
+# Cloud Watch
+# Billing Alarm
+# S3 Service
+# AWS Lambda Service
